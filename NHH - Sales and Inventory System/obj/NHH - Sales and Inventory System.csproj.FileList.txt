@@ -1,0 +1,2 @@
+obj\Debug\NHH - Sales and Inventory System.exe
+obj\Debug\NHH - Sales and Inventory System.pdb

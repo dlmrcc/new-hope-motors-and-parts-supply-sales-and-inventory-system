@@ -1,0 +1,490 @@
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Nuh\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Alkhaizil\Desktop\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Backup\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\arnold\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBadOrder.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HP1127TU\Desktop\Hope Lastest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBadOrder.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Home.resources
+C:\Users\HP1127TU\Desktop\Hope Lastest o\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCriticalItem.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBadOrder.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\HP1127TU\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBadOrder.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfReturnProduct.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfReceiptID.resources
+C:\Users\Nuh\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCriticalItem.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource.read.3.tlog
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBadOrder.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCriticalItem.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfReceiptID.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfReturnProduct.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource.read.3.tlog
+C:\Users\ARNOLD\Desktop\Hopenew\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AddQuantity.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AdminPass.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.BadOrder.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Billing.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CriticalItem.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Customer.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CustSet.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.History.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Home.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Invent.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.LogIn.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Payment.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Quantity.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ProdSet.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Product.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchase.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchasing.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReceiptID.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReturnProduct.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.SalesReport.resources
+C:\Users\Administrator\AppData\Desktop\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AddQuantity.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AdminPass.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.BadOrder.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Billing.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CriticalItem.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Customer.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CustSet.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.History.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Home.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Invent.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.LogIn.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Payment.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Quantity.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ProdSet.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Product.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchase.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchasing.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReceiptID.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReturnProduct.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.SalesReport.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\AppData\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AddQuantity.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AdminPass.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.BadOrder.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Billing.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CriticalItem.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Customer.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CustSet.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.History.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Home.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Invent.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.LogIn.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Payment.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Quantity.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ProdSet.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Product.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchase.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchasing.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReceiptID.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReturnProduct.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.SalesReport.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Nuh\Desktop\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+F:\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AddQuantity.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.AdminPass.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.BadOrder.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Billing.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CriticalItem.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Customer.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.CustSet.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.History.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Home.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Invent.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.LogIn.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Payment.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Quantity.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ProdSet.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Product.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchase.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Purchasing.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReceiptID.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.ReturnProduct.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.SalesReport.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\fererere\Hope latest\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\GenerateResource-ResGen.write.1.tlog

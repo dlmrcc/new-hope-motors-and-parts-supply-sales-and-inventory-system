@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHH - Sales and Inventory System", "NHH - Sales and Inventory System\NHH - Sales and Inventory System.csproj", "{2182672F-90EB-4014-BCCE-7F271DB95046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2182672F-90EB-4014-BCCE-7F271DB95046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2182672F-90EB-4014-BCCE-7F271DB95046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2182672F-90EB-4014-BCCE-7F271DB95046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2182672F-90EB-4014-BCCE-7F271DB95046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

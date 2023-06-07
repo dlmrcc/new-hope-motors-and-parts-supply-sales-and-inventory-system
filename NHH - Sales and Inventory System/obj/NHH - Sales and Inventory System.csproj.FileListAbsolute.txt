@@ -1,0 +1,98 @@
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+C:\Documents and Settings\Owner\Desktop\Thesis namin lahat\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.csproj.GenerateResource.Cache
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.csproj.GenerateResource.Cache
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Release\NHH - Sales and Inventory System.exe
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Release\NHH - Sales and Inventory System.pdb
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\ResolveAssemblyReference.cache
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfCustomer.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfCustSet.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfHistory.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfHome.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfInvent.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfLogIn.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfProdSet.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfProduct.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.wfUser.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH - Sales and Inventory System.csproj.GenerateResource.Cache
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH - Sales and Inventory System.exe
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Release\NHH - Sales and Inventory System.pdb
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+D:\Jermz Files\Computer Programs\All Programs\MySQL\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.exe
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\bin\Debug\NHH - Sales and Inventory System.pdb
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\ResolveAssemblyReference.cache
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Properties.Resources.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAddQuantity.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfAdminPass.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfBilling.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustomer.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfCustSet.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.Forgot_Password.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHistory.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfHome.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfInvent.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfList.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfLogIn.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPayment.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfQuantity.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProdSet.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfProduct.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchase.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfPurchasing.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfSalesReport.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.wfUser.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH___Sales_and_Inventory_System.User_Settings.resources
+D:\Key to Success\Olbinado\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.csproj.GenerateResource.Cache
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.exe
+D:\Akin\Key to Success\Hope\NHH - Sales and Inventory System\NHH - Sales and Inventory System\obj\Debug\NHH - Sales and Inventory System.pdb
